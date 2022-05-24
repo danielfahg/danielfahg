@@ -12,13 +12,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### Proyecto 4: Separación automática de desechos para reciclaje mediante clasificación de imágenes
+# Proyecto 4: Clasificación de desechos para reciclaje mediante imágenes
 
-### :man_technologist: La Pregunta
+### :man_technologist: LA PREGUNTA
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+## ¿Es posible clasificar los residuos mediante imagenes utilizando redes neuronales convolucionales?
 
 ### :man_technologist: Metodos
 
@@ -27,11 +25,8 @@ bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 
-### :man_technologist: Conclusiones
+### :man_technologist: CONCLUSIONES
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
+### Las imagenes del entrenamiento deben abarcar residuos de diferentes formas, colores y texturas para cada material. Con el fin de que el programa no clasifique solamente con base en alguna de estas caracteristicas un residuo, sino que lo clasifique según el material en si mismo. Mediente imagenes de entrenamiento de diferentes formas, colores y texturas para cada material el programa lo distinge por medio de la commbinación de estas caracteristicas en conjunto.
 
 
